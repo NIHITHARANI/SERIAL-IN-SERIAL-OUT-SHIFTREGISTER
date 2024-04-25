@@ -26,6 +26,8 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 **Procedure**
 
 /* write all the steps invloved */
+
+
 /*1.Initialize the shift register to a known state (e.g., all zeros).
 
 2.Input a bit serially into the shift register.
